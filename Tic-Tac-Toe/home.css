@@ -131,3 +131,7 @@ body {
 .winning-message.show {
     display: flex;
 }
+
+p {
+    color: pink;
+}
